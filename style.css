@@ -1210,8 +1210,8 @@ footer {
 .btn {
   font-size: 16px;
   padding: 11px 40px 10px;
-  border: 2px solid #fff;
-  background-color: #fff;
+  border: 2px solid #959595;
+  background-color: black;
   font-weight: 600;
   text-transform: uppercase;
   text-decoration: none;
@@ -1219,10 +1219,10 @@ footer {
   height: 50px;
   display: inline-block;
   transition: .25s ease-in;
-  color: #fff; }
+  color: red; }
   .btn:hover {
     background-color: transparent;
-    color: #fff; }
+    color: #959595; }
 
 /*--------------------- SOCIAL LIST ---------------------*/
 .social-list {
