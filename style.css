@@ -4717,5 +4717,24 @@ body::-webkit-scrollbar-thumb:hover {
   animation: fadeInUp 1s ease-out;
 }
 
+.angel {
+  font-size: 16px;
+  padding: 11px 40px 10px;
+  border: 2px solid #fff;
+  background-color: #fff;
+  font-weight: 600;
+  text-transform: uppercase;
+  text-decoration: none;
+  text-align: center;
+  height: 50px;
+  display: inline-block;
+  transition: .25s ease-in;
+  color: #fff; }
+  .angel:hover {
+    background-color: transparent;
+    color: #fff; }
+
+.fitness-our-program .angel {
+  margin-top: 120px; }
 
    
